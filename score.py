@@ -1,3 +1,5 @@
+### scoring function for f2f
+
 import numpy as np
 import mne
 from mnefun._paths import get_raw_fnames, get_event_fnames
