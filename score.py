@@ -1,9 +1,3 @@
-
-Learn more or give us feedback
-# -*- coding: utf-8 -*-
-# Copyright (c) 2015, LABS^N
-# Distributed under the (new) BSD License. See LICENSE.txt for more info.
-
 import numpy as np
 import mne
 from mnefun._paths import get_raw_fnames, get_event_fnames
