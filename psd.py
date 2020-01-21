@@ -6,9 +6,7 @@ Transform epochs into Welch PSD topo plots.
 import glob
 import os
 import os.path as op
-
 import numpy as np
-
 import mne
 
 work_dir = '/storage/Maggie/f2f/'
